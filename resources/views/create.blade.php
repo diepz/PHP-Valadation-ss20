@@ -27,7 +27,7 @@
         <label for="number">chỉ được nhập số</label>
         <input type="text" name="number">
 
-        <button type="submit">Kiểm tra</button>
+        <button type="submit">Kiểm traa</button>
     </form>
 </div>
 

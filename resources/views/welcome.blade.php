@@ -83,7 +83,7 @@
                 <label for="age">Age: </label>
                 <input id="age" name="age" type="text" placeholder="Enter the age">
                 <br>
-                <button type="submit">Submit</button>
+                <button type="submit">Submitt</button>
             </form>
         </div>
         <div class="error-message">
